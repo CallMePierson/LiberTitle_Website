@@ -64,7 +64,7 @@ footer p{
     text-align: center;
     z-index: 10;
     margin-top: 13vmin;
-    margin-left: 9vmin;
+    margin-left: 0vmin;
 }
 .clock .words p{
     font-size: 8vmin;
