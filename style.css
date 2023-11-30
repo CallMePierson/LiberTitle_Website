@@ -63,16 +63,17 @@ footer p{
     position:absolute;
     text-align: center;
     z-index: 10;
-    margin-top: 13vmin;
-    margin-left: 9vmin;
+    margin-top: 10vmin;
+    margin-left: 0vmin;
+    text-transform: uppercase;
 }
 .clock .words p{
-    font-size: 8vmin;
+    font-size: 6vmin;
     margin:initial;
 }
 .clock .words h3{
     font-size: 8vmin;
-    margin-top:8vmin;
+    margin-top:5vmin;
     margin-bottom:8vmin;
 }
 .clock .number {
